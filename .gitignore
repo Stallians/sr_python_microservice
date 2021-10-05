@@ -1,0 +1,11 @@
+# virtual environments
+venv/
+
+# pyenv 
+.python-version
+
+# py bytecode
+**/__pycache__
+
+# code editor files
+.vscode/
